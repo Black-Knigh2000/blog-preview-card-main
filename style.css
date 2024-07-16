@@ -26,7 +26,7 @@ body{
 }
 main{
     background-color: var(--White);
-    width: 336px;
+    width: 380px;
     display: block;
     border: 2px solid var(--Grey);
     border-radius: 20px;
