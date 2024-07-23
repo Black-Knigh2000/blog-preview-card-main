@@ -108,6 +108,6 @@ I would like to to study more CSS to improve my styling ability. I would also li
 ## Author
 
 - Website - [Tafadzwa Ruzvidzo](https://www.your-site.com)
-- Frontend Mentor - [@Black-knigh2000](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@tafadzwaruzvidz](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Taffy-R](https://www.frontendmentor.io/profile/@Taffy-R)
+- Twitter - [@tafadzwaruzvidz](https://www.twitter.com/@tafadzwaruzvidz)
 
